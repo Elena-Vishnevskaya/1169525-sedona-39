@@ -2,7 +2,7 @@
 
 * Студент: [Влад Вишневский](https://up.htmlacademy.ru/htmlcss/39/user/1169525).
 * Наставник:[нет]
-* Сайт:[мой проект Седона] ( https://elena-vishnevnaya.github.io/1169525-sedona-39/ )
+* Сайт:[мой проект Седона] ( https://elena-vishnevnaya.github.io/1169525-sedona-39/.)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
